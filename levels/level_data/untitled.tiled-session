@@ -1,0 +1,148 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "0.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "#try1": {
+            "scaleInDock": 1
+        },
+        "0.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1642.4242424242425,
+                "y": 983.3333333333333
+            }
+        },
+        "C:/pythonprojects/2D-Mario-style-platformer-main/4 - gui/levels/tilesets/terrain_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/pythonprojects/2D-Mario-style-platformer-main/5 - fixes/levels/tilesets/terrain_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/pythonprojects/MyPlatformer/levels/0/0.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2532,
+                "y": 782
+            }
+        },
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/case.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/enemy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/heart.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/main_terrain.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/main_with_rocks.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/player_start.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/rocks.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/stars.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/try1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/pythonprojects/mario_style_platformer_tutorial/2 - Level/levels/level_data/level_0.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1478.7878787878785,
+                "y": -1.5151515151515014
+            }
+        },
+        "C:/pythonprojects/mario_style_platformer_tutorial/2 - Level/levels/tilesets/coin_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/pythonprojects/mario_style_platformer_tutorial/2 - Level/levels/tilesets/crate.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/pythonprojects/mario_style_platformer_tutorial/2 - Level/levels/tilesets/enemies_tile.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/pythonprojects/mario_style_platformer_tutorial/2 - Level/levels/tilesets/grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/pythonprojects/mario_style_platformer_tutorial/2 - Level/levels/tilesets/palms.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/pythonprojects/mario_style_platformer_tutorial/2 - Level/levels/tilesets/player_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/pythonprojects/mario_style_platformer_tutorial/2 - Level/levels/tilesets/terrain_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "enemy.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "terrain_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/pythonprojects/MyPlatformer/levels/0",
+    "last.imagePath": "C:/pythonprojects/MyPlatformer/graphics/environment",
+    "map.height": 32,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 64,
+    "openFiles": [
+        "0.tmx",
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/player_start.tsx",
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/enemy.tsx",
+        "terrain_1.tsx",
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/stars.tsx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/stars.tsx",
+        "terrain_1.tsx",
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/enemy.tsx",
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/player_start.tsx",
+        "0.tmx",
+        "enemy.tsx",
+        "C:/pythonprojects/MyPlatformer/levels/0/0.tmx",
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/terrain.tsx",
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/rocks.tsx",
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/main_with_rocks.tsx",
+        "C:/pythonprojects/MyPlatformer/levels/tile_sets/try1.tsx",
+        "C:/pythonprojects/mario_style_platformer_tutorial/2 - Level/levels/level_data/level_0.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}

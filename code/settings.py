@@ -1,0 +1,13 @@
+SCREEN_W, SCREEN_H = 1152, 768
+TILE_SIZE = 64
+PLAYER_W, PLAYER_H = 32, 64
+MAP_ROW, MAP_COL = 32, 64
+LEVEL_W, LEVEL_H = TILE_SIZE * MAP_COL, MAP_ROW * TILE_SIZE
+MAP_CENTER_X, MAP_CENTER_Y = LEVEL_W // 2, LEVEL_H // 2
+
+CAMERA_BORDERS = {
+    "top": SCREEN_H // 3 * 2,
+    "bottom": SCREEN_H // 3,
+    "left": SCREEN_W // 3,
+    "right": SCREEN_W // 3 * 2
+}
